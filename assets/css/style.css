@@ -4,3 +4,36 @@
   padding: 0;
 }
 
+/* Global */
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 100%;
+}
+
+/* layout */
+.slider {
+  height: 100vh;
+  color: #ffff00;
+}
+
+.slogan {
+  font-size: 3em;
+  text-transform: uppercase;
+}
+
+.prima {
+  background-color: #ff0000;
+}
+
+.seconda {
+  background-color: #008000;
+}
+
+.terza {
+  background-color: #ffff00;
+}
+
