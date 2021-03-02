@@ -15,9 +15,8 @@ body {
   width: 100%;
 }
 
-/* Menu di navivazine */
+/* Menu di navigazine */
 ul {
-  display: inline-block;
   list-style: none;
   position: fixed;
   right: 50px;
@@ -34,7 +33,7 @@ li {
   box-shadow: 1px 1px 5px lightgray;
   line-height: 40px;
   text-align: center;
-  margin: 10px;
+  margin: 5px;
   font-size: 1.5em;
 }
 
