@@ -44,6 +44,12 @@ li {
 
 .slider img{
   width: 50%;
+  margin-top: 150px;
+}
+
+.item {
+  width: 70%;
+  margin: auto;
 }
 
 .slogan {
