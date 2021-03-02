@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 /* Global */
@@ -35,6 +36,19 @@ li {
   text-align: center;
   margin: 10px;
   font-size: 1.5em;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:focus {
+  color: #000000;
+}
+
+a:hover {
+  color: #000000
 }
 
 /* layout */
